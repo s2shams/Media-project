@@ -1,0 +1,15 @@
+# Media-project
+
+### Still under development but basic functionality is done, this includes:
+- Data cleanup
+- Data processing
+- The main machine learning algorithm
+
+### The following is what's left to be made:
+- User interface
+- Implementation of Google's NLP AI
+- Finishing touches
+
+### Future goals of the project
+- Create a search engine that'll allow the user to see details of the recommendations
+- Create a login portal that'll allow a user to link their MyAnimeList/IMDb account to improve recommendations
