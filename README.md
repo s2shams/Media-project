@@ -13,6 +13,7 @@
 ### Future goals of the project
 - Create a search engine that'll allow the user to see details of the recommendations
 - Create a login portal that'll allow a user to link their MyAnimeList/IMDb account to improve recommendations
+- Compare entries with an online database instead of a pre-installed one.
 
 ### Main purpose of the project
 - To learn webscraping techniques
