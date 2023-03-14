@@ -33,5 +33,5 @@ vectorized_df = pd.DataFrame(combined_array, columns=feature_names)
 user_df = df.copy()
 user_df.drop(index=user_df.index, inplace=True)
 columns = user_df.columns.tolist()
-
+# i=git test
 
