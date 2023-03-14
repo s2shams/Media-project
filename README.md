@@ -16,6 +16,7 @@
 - Compare entries with an online database instead of a pre-installed one.
 
 ### Main purpose of the project
+- Mainly a passion project since I love watching TV Shows, especially anime 
 - To learn webscraping techniques
 - To learn how to leverage REST APIs
 - Learning how to use input from users
