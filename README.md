@@ -19,3 +19,8 @@
 - To learn how to leverage REST APIs
 - Learning how to use input from users
 - Learning how to build a user friendly interface
+
+### Info
+- The main application is being implemented in main.py
+- The testing and visualization is done in recommender.ipynb
+- The .csv files were obtained through webscraping/data cleanup after processing using pandas
