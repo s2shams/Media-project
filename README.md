@@ -3,7 +3,7 @@
 ### Still under development but basic functionality is done, this includes:
 - Data cleanup
 - Data processing
-- The main machine learning algorithm
+- The main algorithm which has been tested to function well
 
 ### The following is what's left to be made:
 - User interface
@@ -16,7 +16,8 @@
 - Compare entries with an online database instead of a pre-installed one.
 
 ### Main purpose of the project
-- Mainly a passion project since I love watching TV Shows, especially anime 
+- Mainly a passion project since I love watching TV Shows, especially anime
+- Learn NLP and text processing and how various algorithm works
 - To learn webscraping techniques
 - To learn how to leverage REST APIs
 - Learning how to use input from users
